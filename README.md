@@ -1,8 +1,10 @@
+![明媚像素风草坡与背包旅人：Hello, world. I make ideas tangible.](./assets/pandagwan-hero-bright.gif)
+
 # PANDAGWAN
 
-![终端打字效果：听池鸟，闻旧林，人间恍惚又一岁。](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4200&pause=1200&color=1F883D&width=620&lines=%E5%90%AC%E6%B1%A0%E9%B8%9F%EF%BC%8C%E9%97%BB%E6%97%A7%E6%9E%97%EF%BC%8C%E4%BA%BA%E9%97%B4%E6%81%8D%E6%83%9A%E5%8F%88%E4%B8%80%E5%B2%81%E3%80%82)
+> 听池鸟，闻旧林，人间恍惚又一岁。
 
-✨ 把灵感做成可以体验的小世界　·　🌱 让好奇心继续生长
+✨ 心怀好奇，动手创造　·　🌱 让灵感在真实世界开花
 
 <p align="left">
   <a href="https://github.com/panda0611?tab=repositories"><img src="https://img.shields.io/badge/%E4%BD%9C%E5%93%81%E9%9B%86-%E9%A1%B9%E7%9B%AE%E6%A1%A3%E6%A1%88-1f6f39?style=flat-square" alt="作品集"></a>
@@ -48,3 +50,4 @@
 ---
 
 <sub>弟弟很喜欢闻被焚烧过的纸片的味道，他说那是枯萎的重生。</sub>
+
