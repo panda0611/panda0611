@@ -8,9 +8,8 @@
 
 <p align="left">
   <a href="https://github.com/panda0611?tab=repositories"><img src="https://img.shields.io/badge/%E4%BD%9C%E5%93%81%E9%9B%86-%E9%A1%B9%E7%9B%AE%E6%A1%A3%E6%A1%88-1f6f39?style=flat-square" alt="作品集"></a>
-  <a href="mailto:944730274@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-%E8%81%94%E7%B3%BB%E6%88%91-096b63?style=flat-square" alt="邮箱"></a>
+  <a href="mailto:likeda456@gmail.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-%E8%81%94%E7%B3%BB%E6%88%91-096b63?style=flat-square" alt="邮箱"></a>
   <img src="https://img.shields.io/badge/%E5%9D%90%E6%A0%87-%E9%A6%99%E6%B8%AF%20%2F%20%E6%B7%B1%E5%9C%B3-57606a?style=flat-square" alt="香港 / 深圳">
-  <img src="https://komarev.com/ghpvc/?username=panda0611&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=57606a&style=flat-square" alt="主页访问量">
 </p>
 
 ## ♊️ 关于我
